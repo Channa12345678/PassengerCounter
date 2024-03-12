@@ -1,0 +1,60 @@
+body {
+    background: lightskyblue;
+    
+    font-family: Garamond;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.co {
+    background-image: url('WEB/img.jpg');
+    background-size:cover;
+    margin: 20px;
+    border-radius: 4px 4px 80px 4px;
+    height: 350px;
+    border: 3px groove gray;
+
+
+    
+}
+
+
+
+
+
+h1 {
+    
+    padding-top: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 150px; 
+    margin-bottom: 10px; 
+    border-radius: 5px;
+    margin-left: 10px;
+    }
+
+#increment-btn {
+    background-color: darkred;
+}
+
+#save-btn {
+    background-color: green;
+}
+
+
